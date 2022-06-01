@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6ee53150b0381480b6b672eb4fa0dd56",
+        "name": "_20120213_nails_20120213_index_right_40.jpg",
+        "path": "file:D:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90/Project%203/project3/fingernail/fingernail/_20120213_nails_20120213_index_right_40.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1067
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IJGebsTuW",
+            "type": "RECTANGLE",
+            "tags": [
+                "Fingernails"
+            ],
+            "boundingBox": {
+                "height": 419.4834471784319,
+                "width": 438.85714285714283,
+                "left": 667.9428478422618,
+                "top": 382.9005900355748
+            },
+            "points": [
+                {
+                    "x": 667.9428478422618,
+                    "y": 382.9005900355748
+                },
+                {
+                    "x": 1106.7999906994046,
+                    "y": 382.9005900355748
+                },
+                {
+                    "x": 1106.7999906994046,
+                    "y": 802.3840372140066
+                },
+                {
+                    "x": 667.9428478422618,
+                    "y": 802.3840372140066
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

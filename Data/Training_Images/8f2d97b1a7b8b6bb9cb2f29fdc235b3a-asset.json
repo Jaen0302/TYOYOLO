@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8f2d97b1a7b8b6bb9cb2f29fdc235b3a",
+        "name": "_tbnd2_D30_049.jpg",
+        "path": "file:D:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90/Project%203/project3/fingernail/fingernail/_tbnd2_D30_049.jpg",
+        "size": {
+            "width": 300,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pmaaGRbdW",
+            "type": "RECTANGLE",
+            "tags": [
+                "Fingernails"
+            ],
+            "boundingBox": {
+                "height": 282.5142844063895,
+                "width": 257.4857221330915,
+                "left": 23.614288330078125,
+                "top": 12.342858450753347
+            },
+            "points": [
+                {
+                    "x": 23.614288330078125,
+                    "y": 12.342858450753347
+                },
+                {
+                    "x": 281.1000104631696,
+                    "y": 12.342858450753347
+                },
+                {
+                    "x": 281.1000104631696,
+                    "y": 294.85714285714283
+                },
+                {
+                    "x": 23.614288330078125,
+                    "y": 294.85714285714283
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
