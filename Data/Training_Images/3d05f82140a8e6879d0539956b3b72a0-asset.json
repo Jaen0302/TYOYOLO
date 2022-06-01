@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3d05f82140a8e6879d0539956b3b72a0",
+        "name": "_D30_029.jpg",
+        "path": "file:D:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90/Project%203/project3/fingernail/fingernail/_D30_029.jpg",
+        "size": {
+            "width": 441,
+            "height": 441
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XSAR_2xRK",
+            "type": "RECTANGLE",
+            "tags": [
+                "Fingernails"
+            ],
+            "boundingBox": {
+                "height": 259.0560076904297,
+                "width": 345.7439730834961,
+                "left": 54.36901153564453,
+                "top": 88.2
+            },
+            "points": [
+                {
+                    "x": 54.36901153564453,
+                    "y": 88.2
+                },
+                {
+                    "x": 400.1129846191406,
+                    "y": 88.2
+                },
+                {
+                    "x": 400.1129846191406,
+                    "y": 347.25600769042967
+                },
+                {
+                    "x": 54.36901153564453,
+                    "y": 347.25600769042967
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
