@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "30a3dedf7305e59f5d584cf9e6c708a9",
+        "name": "_tbnd_v01_20120206_nails_20120206_index_right_09.jpg",
+        "path": "file:D:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90/Project%203/project3/fingernail/fingernail/_tbnd_v01_20120206_nails_20120206_index_right_09.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1067
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yJ7GEIG-2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Fingernails"
+            ],
+            "boundingBox": {
+                "height": 441.4750996237156,
+                "width": 525.6924546322828,
+                "left": 541.279865836915,
+                "top": 350.84502307050207
+            },
+            "points": [
+                {
+                    "x": 541.279865836915,
+                    "y": 350.84502307050207
+                },
+                {
+                    "x": 1066.9723204691977,
+                    "y": 350.84502307050207
+                },
+                {
+                    "x": 1066.9723204691977,
+                    "y": 792.3201226942177
+                },
+                {
+                    "x": 541.279865836915,
+                    "y": 792.3201226942177
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
