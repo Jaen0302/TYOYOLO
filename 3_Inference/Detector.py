@@ -121,8 +121,8 @@ if __name__ == "__main__":
         "--confidence",
         type=float,
         dest="score",
-        default=0.25,
-        help="Threshold for YOLO object confidence score to show predictions. Default is 0.25.",
+        default=0.27,
+        help="Threshold for YOLO object confidence score to show predictions. Default is 0.27.",
     )
 
     parser.add_argument(
@@ -138,8 +138,8 @@ if __name__ == "__main__":
         "--postfix",
         type=str,
         dest="postfix",
-        default="_catface",
-        help='Specify the postfix for images with bounding boxes. Default is "_catface"',
+        default="_fingernails",
+        help='Specify the postfix for images with bounding boxes. Now it is set as "_fingernails"',
     )
 
     parser.add_argument(
